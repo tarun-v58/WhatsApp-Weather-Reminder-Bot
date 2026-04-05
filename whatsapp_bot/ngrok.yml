@@ -1,0 +1,5 @@
+authtoken: 3BnBhk543QiSD41SdcSSxdthej8_6gYoyjAMj13uzDxa4yJ35
+tunnels:
+  whatsapp:
+    proto: http
+    addr: 5000
